@@ -1,0 +1,6 @@
+{
+  "name": "Command-prompt",
+  "tagline": "Learn to use command line with power shell",
+  "body": "# pwd\r\nprint working directory\r\n# hostname\r\nmy computer's network name\r\n# mkdir\r\nmake directory\r\n# cd\r\nchange directory\r\n# ls\r\nlist directory\r\n# rmdir\r\nremove directory\r\n# pushd\r\npush directory\r\n# popd\r\npop directory\r\n# cp\r\ncopy a file or directory\r\n# robocopy\r\nrobust copy\r\n# mv\r\nmove a file or directory\r\n# more\r\npage through a file\r\n# type\r\nprint the whole file\r\n# forfiles\r\nrun a command on lots of files\r\n# dir -r\r\nfind files\r\n# select-string\r\nfind things inside files\r\n# help\r\nread a manual page\r\n# helpctr\r\nfind what man page is appropriate\r\n# echo\r\nprint some arguments\r\n# set\r\nexport/set a new environment variable\r\n# exit\r\nexit the shell\r\n# runas\r\nDANGER! become super user root DANGER!\r\n# attrib\r\nchange permission modifiers\r\n# iCACLS\r\nchange ownership",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
